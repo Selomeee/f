@@ -43,6 +43,16 @@ body{
    color:#00ffee;    
 }
 
+@media screen and (max-width: 768px) {
+    html {
+        font-size: 55%;
+    }
+
+    .header {
+        padding: 2rem 5%; 
+    }
+
+
 .navbar a{
     font-size: 1.8rem;
     color: #fff;
